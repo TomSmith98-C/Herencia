@@ -1,0 +1,12 @@
+/Users/tom/Desktop/C#/herencia/herencia/bin/Debug/netcoreapp3.1/herencia.deps.json
+/Users/tom/Desktop/C#/herencia/herencia/bin/Debug/netcoreapp3.1/herencia.runtimeconfig.json
+/Users/tom/Desktop/C#/herencia/herencia/bin/Debug/netcoreapp3.1/herencia.runtimeconfig.dev.json
+/Users/tom/Desktop/C#/herencia/herencia/bin/Debug/netcoreapp3.1/herencia.dll
+/Users/tom/Desktop/C#/herencia/herencia/bin/Debug/netcoreapp3.1/herencia.pdb
+/Users/tom/Desktop/C#/herencia/herencia/obj/Debug/netcoreapp3.1/herencia.csprojAssemblyReference.cache
+/Users/tom/Desktop/C#/herencia/herencia/obj/Debug/netcoreapp3.1/herencia.AssemblyInfoInputs.cache
+/Users/tom/Desktop/C#/herencia/herencia/obj/Debug/netcoreapp3.1/herencia.AssemblyInfo.cs
+/Users/tom/Desktop/C#/herencia/herencia/obj/Debug/netcoreapp3.1/herencia.csproj.CoreCompileInputs.cache
+/Users/tom/Desktop/C#/herencia/herencia/obj/Debug/netcoreapp3.1/herencia.dll
+/Users/tom/Desktop/C#/herencia/herencia/obj/Debug/netcoreapp3.1/herencia.pdb
+/Users/tom/Desktop/C#/herencia/herencia/obj/Debug/netcoreapp3.1/herencia.genruntimeconfig.cache
